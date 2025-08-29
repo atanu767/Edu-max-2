@@ -460,7 +460,7 @@ h1 span,.h1-title-span{
   font-size: 34px;
   transition: transform 0.3s ease;
 }
-
+/*  */
 .menu-btn i.fa-xmark {
   transform: rotate(90deg);
 }
